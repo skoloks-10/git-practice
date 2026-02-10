@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="502ba41a-526b-4052-b4d2-38f4c86f0442" name="변경" comment="Add Coach Teddy to Panthers">
+    <list default="true" id="502ba41a-526b-4052-b4d2-38f4c86f0442" name="변경" comment="Edit Tigers coach">
       <change beforePath="$PROJECT_DIR$/tigers.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/tigers.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "to-rebase",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Hoon/Desktop/GIT-PRACTICE",
@@ -89,7 +89,7 @@
       <workItem from="1770636109611" duration="5169000" />
       <workItem from="1770673425932" duration="78000" />
       <workItem from="1770710455996" duration="1777000" />
-      <workItem from="1770718109038" duration="2507000" />
+      <workItem from="1770718109038" duration="2671000" />
     </task>
     <task id="LOCAL-00001" summary="Add Coach Oscar to Leopards">
       <option name="closed" value="true" />
@@ -107,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770711958196</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Edit Tigers coach">
+      <option name="closed" value="true" />
+      <created>1770721480076</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770721480076</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +164,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="to-rebase" />
                       </list>
                     </value>
                   </entry>
@@ -177,7 +185,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Coach Oscar to Leopards" />
     <MESSAGE value="Add Coach Teddy to Panthers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Coach Teddy to Panthers" />
+    <MESSAGE value="Edit Tigers coach" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit Tigers coach" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
